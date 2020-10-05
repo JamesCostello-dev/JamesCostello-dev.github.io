@@ -15,4 +15,4 @@
 https://jamescostello-dev.github.io/
 
 ## Contribution
-Made by James Costello
+James Costello

@@ -1,11 +1,18 @@
-# Deployed Portfolio and Work Samples
+# Portfolio v1.0
 
-# Includes Dev's Name, Photo, and Links / Contact
+## Purpose
+* Deployed Portfolio and Work Samples
+* Includes Dev's Name, Photo, and Links / Contact
+* Working Links Including Scroll
+* Create Hero for Application
+* Web App Must be Mobile Friendly 
 
-# Working Links Including Scroll
+## Built With
+* HTML
+* CSS
 
-# Create Hero for Application
-
-# Web App Must be Mobile Friendly 
-
+## Website
 https://jamescostello-dev.github.io/
+
+## Contribution
+Made by James Costello

@@ -77,7 +77,7 @@ header nav ul li a:hover {
 /* hero and button */
 
 .hero {
-  background-image: url("../images/random-joke.jpg");
+  background-image: url("../images/dog-date.jpg");
   background-size: cover;
   background-position: center;
   display: flex;
@@ -219,12 +219,12 @@ header nav ul li a:hover {
 .project-grid-item.project-1 {
   grid-column: 1;
   grid-row: 1 / -1;
-  background-image: url('../../assets/images/hero-bg.jpg');
+  background-image: url('../../assets/images/dog-date.jpg');
   background-size: 850px;
 }
 
 .project-grid-item.project-2 {
-  background-image: url('../../assets/images/social-media-marketing.jpg');
+  background-image: url('../../assets/images/random-joke.jpg');
   background-size: 700px;
 }
 
